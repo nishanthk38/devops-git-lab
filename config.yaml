@@ -4,3 +4,4 @@ filters:
   - name: priority
     values: [high, medium, low]
     Resolving merge conflict for feature a
+    Hello another changes coming in from branch 2
