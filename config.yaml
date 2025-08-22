@@ -3,3 +3,4 @@ filters:
     values: [active, inactive]
   - name: priority
     values: [high, medium, low]
+    Resolving merge conflict for feature a
